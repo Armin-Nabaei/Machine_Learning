@@ -23,16 +23,24 @@ from AADAM import ArminAdam
 ADAM_Optmizer = ArminAdam(lr=0.001)
 ###
 <img width="437" alt="Screen Shot 2023-09-28 at 12 29 05 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/d085d97c-d1b7-4309-908c-8dc1736cb86e">
+![Uploading Screenshot 2023-11-26 at 3.42.24 PM.png…]()
+
+
+<img width="674" alt="Screenshot 2023-11-26 at 3 42 01 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/3fa85f23-193e-4ffc-83a4-a08d48b0a59c">
+
 
 ################
 
-To call Loss and Class-Weight Functions Use two below comment Lines:
+To call Loss and Class-Weight Functions Use the  comment Line:
 
 loss=MyHuberLoss()
-class_weights = create_class_weight(labels_dict)
 
-######
 <img width="360" alt="Screenshot 2023-11-30 at 1 00 13 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c3554520-362f-4473-b642-926b682ee8a1">
 <img width="358" alt="Screenshot 2023-11-30 at 1 00 23 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/3a5bd62e-0450-429f-82a8-07af765b1c4c">
 
+#####
+To call Loss Class-Weight Functions Use the below comment Lines:
+
+class_weights = create_class_weight(labels_dict)
+<img width="466" alt="Screenshot 2023-12-01 at 4 02 15 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c03f9cc6-dafe-41f2-8b90-5e371da0c3ef">
 
