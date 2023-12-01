@@ -1,0 +1,36 @@
+from tensorflow.keras.utils import get_custom_objects
+from keras.activations import *
+from tensorflow.python.ops import math_ops
+
+def forward(input,m=None,axis=-1):
+
+        numerator = tf.math.log(m)
+        denominator = tf.math.log(tf.constant(10, dtype=numerator.dtype))
+        expm = numerator / denominator
+        input = math_ops.exp(input)
+        #calculate softmargin softmax
+        expsum = math_ops.reduce_sum(input, axis=axis,keepdims=True) 
+        input = (input*expm)/(expsum - input + ((input*expm)+0.001))
+        #normalize
+        normsum = math_ops.reduce_sum(input, axis=axis,keepdims=True) 
+        input = tf.linalg.normalize(input/normsum)
+        
+        return input
+
+  
+def my_forward(input):
+    
+    m = tf.math.reduce_max(input)
+    if m!=0:
+       m = tf.math.reduce_sum (m)+0.2
+       if m< -2.0 :
+          m == -2.0
+       if m> +2.0 :
+          m == +2.0
+    else:
+      m=2.0
+    m=np.float32(m)
+    metric_value = tf.py_function(forward, [input,m], tf.float32)
+    return metric_value
+
+get_custom_objects().update({'softmax': Activation(softmax)})
