@@ -18,3 +18,9 @@ import os
 from AADAM import ArminAdam
 ADAM_Optmizer = ArminAdam(lr=0.001)
 ###
+To call Loss and Class-Weight Functions Use two below comment Lines:
+
+loss=MyHuberLoss()
+class_weights = create_class_weight(labels_dict)
+
+######
