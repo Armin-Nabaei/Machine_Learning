@@ -1,9 +1,8 @@
 # Machine-Learning
-############################
-Deep Learning Algorithms and Models of this repository implemented in Tensorflow and PyTorch
-############################
 
-The Proposed Optimizer and SoftMax Loss Functions Codes have bee written in Tensorflow. 
+# Deep Learning Algorithms and Models of this repository implemented in Tensorflow and PyTorch
+
+## The Proposed Optimizer and SoftMax Loss Functions Codes have bee written in Tensorflow. 
 
 ###
 To call SoftMax, simply replace the last layer with corresponding commend:
