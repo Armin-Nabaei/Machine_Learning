@@ -1,5 +1,3 @@
-#VISUALLIZING FILTER FEATURE MAPs ATTENTION FOR EVERY LAYER
-
 import tensorflow.compat.v1 as tf
 import matplotlib.pyplot as plt
 import numpy as np
