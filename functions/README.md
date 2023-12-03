@@ -38,6 +38,12 @@ https://drive.google.com/file/d/1z5RguAiIncQYKt-eJqpbAGL2msLMetaa/view?usp=shari
 ![Picture8](https://github.com/arminn84/Machine-Learning/assets/150948007/b4cb2483-ae7a-4c10-9ad5-08dbb41421d9)
 
 #######################
+# The similarity of the two faces is based on the Cosine Similarity function.
+
+
+### the distance metric “Euclidean Distance()” was used to create a similarity score between the faces under comparison.
+### verifyFace function verifies how much two images loaded are similar  .epsilon is set to be the threshold of whether ### two faces are the same person. Setting a lower value makes it stricter for face matching.
+![image](https://github.com/arminn84/Machine-Learning/assets/150948007/bb1414a0-995c-4d38-baf5-01d4c9e0c592)
 
 
 
