@@ -49,7 +49,11 @@ https://drive.google.com/file/d/1z5RguAiIncQYKt-eJqpbAGL2msLMetaa/view?usp=shari
 
 
 <img width="329" alt="Picture1" src="https://github.com/arminn84/Machine-Learning/assets/150948007/7f0c3903-d392-436d-a90f-d92ea2d3d0b0">
+
+
 <img width="332" alt="Picture2" src="https://github.com/arminn84/Machine-Learning/assets/150948007/b05c7c25-2114-474e-b686-012c443df474">
+
+
 <img width="332" alt="Picture3" src="https://github.com/arminn84/Machine-Learning/assets/150948007/b04db47a-6845-41ef-8841-4163cd7269c4">
 
 
