@@ -6,6 +6,11 @@
 https://drive.google.com/file/d/1z5RguAiIncQYKt-eJqpbAGL2msLMetaa/view?usp=sharing
 
 
+### Download haarcascade_frontalface
+
+https://drive.google.com/file/d/1kwOWDvuWLkA1h71AzPH6bYNiBf0LaMlR/view?usp=sharing
+
+
 <img width="269" alt="Picture2" src="https://github.com/arminn84/Machine-Learning/assets/150948007/10603a67-ee43-42e7-bf67-187ea67ced3d">
 
 
