@@ -37,7 +37,7 @@ To call Optmizer, Use These lines of Codes to Call it:
 
 To call Loss and Class-Weight Functions Use the  comment Line:
 
-loss=MyHuberLoss()
+loss=MyLoss()
 
 <img width="360" alt="Screenshot 2023-11-30 at 1 00 13 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c3554520-362f-4473-b642-926b682ee8a1">
 <img width="358" alt="Screenshot 2023-11-30 at 1 00 23 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/3a5bd62e-0450-429f-82a8-07af765b1c4c">
