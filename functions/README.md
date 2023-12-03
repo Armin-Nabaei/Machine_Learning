@@ -1,4 +1,4 @@
-# Outputs of the convolution activations 
+# Outputs of activation functions corresponding to convolutional layers
 
 
 ## " Feature Visualization"
