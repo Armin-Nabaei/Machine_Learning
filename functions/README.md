@@ -1,9 +1,17 @@
-# Outputs of activation functions corresponding to convolutional layers
+# Face Detector, Gender & Age Identification
 
 
-## " Feature Visualization"
+<img width="269" alt="Picture2" src="https://github.com/arminn84/Machine-Learning/assets/150948007/10603a67-ee43-42e7-bf67-187ea67ced3d">
+
+
+<img width="195" alt="Picture3" src="https://github.com/arminn84/Machine-Learning/assets/150948007/49bc86df-6423-4597-91e5-7ca2fe8647ad">
+
+
+![Picture1](https://github.com/arminn84/Machine-Learning/assets/150948007/4a85ee81-50a7-430c-b3ed-44c5ebf58971)
+
+
+<img width="217" alt="Picture5" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c1e35eec-2672-4c9d-9e36-7e2ca41b9bbb">
 
 
 
 
-<img width="963" alt="Screenshot 2023-12-03 at 7 40 00 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/421e38fa-b0da-41af-972f-daf08944dcd3">
