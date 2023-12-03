@@ -3,6 +3,7 @@ import numpy as np
 from time import sleep
 from tensorflow.keras.preprocessing.image import img_to_array
 
+classifier = load_model('"emotion_detection_model.h5')
 face_classifier = cv2.CascadeClassifier('./Haarcascades/haarcascade_frontalface_default.xml')
 image_path = "./output/"
 modhash = 'fbe63257a054c1c5466cfd7bf14646d6'
