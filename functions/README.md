@@ -24,7 +24,6 @@ https://drive.google.com/file/d/1z5RguAiIncQYKt-eJqpbAGL2msLMetaa/view?usp=shari
 
 <img width="217" alt="Picture5" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c1e35eec-2672-4c9d-9e36-7e2ca41b9bbb">
 
-###################################################################
-###################################################################
+#######################
 
 
