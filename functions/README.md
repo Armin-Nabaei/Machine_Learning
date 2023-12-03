@@ -1,4 +1,4 @@
-# Outputs the activations of all convolution
+# Outputs of the convolution activations 
 
 
 ## " Feature Visualization"
