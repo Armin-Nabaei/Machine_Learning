@@ -7,6 +7,7 @@ To call SoftMax:
 
 from ASoftMax import my_forward
 
+
 Next, simply replace the last layer with corresponding commend:
 
 <img width="729" alt="Screenshot 2023-12-01 at 4 08 25 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/f49d2f6c-9150-455c-adb6-f96254254ba9">
