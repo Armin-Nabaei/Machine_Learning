@@ -14,6 +14,7 @@ https://drive.google.com/file/d/16PVOXEfsGD7A3iJQ8nVA9BeWmqTZgp1e/view?usp=shari
 https://drive.google.com/file/d/1z5RguAiIncQYKt-eJqpbAGL2msLMetaa/view?usp=sharing****
 
 
+
 <img width="269" alt="Picture2" src="https://github.com/arminn84/Machine-Learning/assets/150948007/10603a67-ee43-42e7-bf67-187ea67ced3d">
 
 
