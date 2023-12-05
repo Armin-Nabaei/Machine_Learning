@@ -15,6 +15,7 @@
 from tensorflow.keras.utils import get_custom_objects
 from keras.activations import *
 from tensorflow.python.ops import math_ops
+from tensorflow.keras.layers import Activation
 
 def forward(input,m=None,axis=-1):
 
