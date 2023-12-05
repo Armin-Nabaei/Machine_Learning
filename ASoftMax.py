@@ -17,6 +17,7 @@ from keras.activations import *
 from tensorflow.python.ops import math_ops
 from tensorflow.keras.layers import Activation
 import tensorflow as tf
+import numpy as np
 
 def forward(input,m=None,axis=-1):
 
