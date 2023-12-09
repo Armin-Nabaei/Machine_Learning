@@ -1,5 +1,5 @@
 # Multi Cross-Scale Mix Local And Non-Local Fusion Activation Maps for Attention-Modules in Image Classification
-# "Hybrid Model consists of Transformer & CNN with 98.55% in CIFAR10, and 90.16% in CIFAR100.
+## "Hybrid Model consists of Transformer & CNN with results of 98.55% in CIFAR10, and 90.16% in CIFAR100.
 
 ### download my trained weights links:
 #### CIFAR-10 : 
@@ -60,7 +60,6 @@ considering an appropriate backbone to extract features
 ### We group input along the channel axis; each group is convolved with a separate filter/kernel, and at the end, the input and output will be concatenated (Depth wise Convolution).
 ___________________________________________________________________
 
-# END
 
 
 
