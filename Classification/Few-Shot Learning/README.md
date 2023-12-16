@@ -1,5 +1,5 @@
 # Few-Shot Learning (FSL) 
-## Proposed Hybrid Model acquired 99.27 % accuracy and is placed on top 12th rank of the benchmark for the “Oxford-## Flower-102 dataset”, and 90.04%, which is placed on 6th rank on Food-101 datasets. 
+## Proposed Hybrid Model acquired 99.27 % accuracy and is placed on top 12th rank of the benchmark for the “Oxford-## Flower-102 dataset” and 90.61%, which is placed on 6th rank on Food-101 datasets. 
 
 
 ### This is acquired by an Ensemble CNN + ViT  (Hybrid) model on a few  numbers of images(10 high-resolution images for 102 classes in the Oxford-Flower 102 dataset and the Food-101 dataset consisting of 101 food categories with 750 training samples).
