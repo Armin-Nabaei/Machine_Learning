@@ -1,11 +1,14 @@
 # Multi Cross-Scale Mix Local And Non-Local Fusion Activation Maps for Attention-Modules in Image Classification
-## "Hybrid Model consists of Transformer & CNN with results of 98.55% in CIFAR10, and 90.16% in CIFAR100.
+## "Hybrid Model consists of Transformer & CNN with results of 98.55% in CIFAR10, 90.16% in CIFAR100, and 90.16% in Stanford Cars Dataset.
 
 ### download my trained weights links:
 #### CIFAR-10 : 
 https://drive.google.com/drive/folders/15sN8wzAYOH6XFQiAGzA2Zg13Ykb4QZad?usp=sharing
 
 #### CIFAR-100 : 
+https://drive.google.com/file/d/1Bn1DEB7KqOCSBmu2e0HyMW99GXfPYy92/view?usp=sharing
+
+#### Stanford Cars:
 https://drive.google.com/file/d/1Bn1DEB7KqOCSBmu2e0HyMW99GXfPYy92/view?usp=sharing
 ___________________________
 
