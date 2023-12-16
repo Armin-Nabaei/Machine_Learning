@@ -1,5 +1,5 @@
 # Few-Shot Learning (FSL) 
-## Proposed Hybrid Model acquaired 99.27 % Accuracy is placed on 12th rank of the benchmark for the “Oxford-## Flower-102 dataset”.
+## Proposed Hybrid Model acquired 99.27 % accuracy and is placed on top 12th rank of the benchmark for the “Oxford-## Flower-102 dataset”.
 
 ### This is acquired by an Ensemble CNN + ViT  (Hybrid) model on a few  numbers of images  (10 high-resolution images per 102 classes).
 
