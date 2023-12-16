@@ -9,6 +9,7 @@ https://drive.google.com/drive/folders/15sN8wzAYOH6XFQiAGzA2Zg13Ykb4QZad?usp=sha
 https://drive.google.com/file/d/1Bn1DEB7KqOCSBmu2e0HyMW99GXfPYy92/view?usp=sharing
 
 #### Stanford Cars:
+-	The Stanford Cars dataset consists of 196 classes, making a total of 16,185 images, and is sub-placed in fine-grained classification dataset.
 https://drive.google.com/file/d/1Bn1DEB7KqOCSBmu2e0HyMW99GXfPYy92/view?usp=sharing
 ___________________________
 
