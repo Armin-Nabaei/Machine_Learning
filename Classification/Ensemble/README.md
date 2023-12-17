@@ -13,7 +13,7 @@
 https://drive.google.com/file/d/1--VJOYHFxGMItbBmVXlqToB6RWpfMOrm/view?usp=sharing
 
 #### Model
-<img width="719" alt="Screenshot 2023-12-16 at 10 18 54 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/2d3cf6e7-746e-4810-87a0-0e747b8760a9">
+<img width="551" alt="Screenshot 2023-12-16 at 10 23 16 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/d4c3a170-665a-439a-a2b9-d1f3efcf20df">
 
 #### Visualization of Layers
 <img width="541" alt="Screenshot 2023-12-16 at 10 04 09 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/acfad9b4-e5e7-42d5-820e-03255a354120">
