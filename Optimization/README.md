@@ -1,4 +1,4 @@
-# Improve Optimizer Performance based on Scale-up Gradient Implemented for the First Conv Layer against Vanishing Gradient
+# Improving Performance of First-order Optimizers Based on the Scaled Gradient for the First Conv Layer to Combat the Vanishing Gradient Issue.
 
 ## Algorithm
 
