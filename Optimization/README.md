@@ -1,4 +1,4 @@
-# Improving Performance of First-order Optimizers Based on the Scaled Gradient for the First Conv Layer to Combat the Vanishing Gradient Issue.
+# Improving Performance of First-order Optimizers Based on the Scaled Gradient Technique for the First Conv Layer to Combat the Vanishing Gradient Issue.
 
 ## Algorithm
 
