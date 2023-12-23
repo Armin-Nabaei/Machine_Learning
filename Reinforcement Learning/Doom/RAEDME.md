@@ -9,11 +9,7 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
 ## 2)Replace "**vizdoomenv.py**" in vizdoom_gym/vizdoomgym/envs folder
 
 _______________________
-
-## Install Libraries:
-
-https://colab.research.google.com/drive/1aEVLlotMPu23lDXMeuDPqyLpHV_-f8Ol?authuser=2#scrollTo=W63FcS3VTOAO&line=1&uniqifier=1
-
+<img width="364" alt="Screenshot 2023-10-28 at 8 35 45 PM" src="https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/253836ec-83c7-48af-a26d-9e13472d8278">
 ________________________
 
 
