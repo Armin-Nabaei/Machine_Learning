@@ -4,7 +4,7 @@
 ## The Proposed Optimizer and SoftMax Loss Functions Codes have bee written in Tensorflow. 
 
 ###
-To call My Proposed Adaptive Soft_MarginSoftMax:
+To call My Proposed Adaptive Soft_Margin SoftMax:
 
 from ASoftMax import my_forward
 
