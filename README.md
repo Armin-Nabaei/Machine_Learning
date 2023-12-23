@@ -1,11 +1,10 @@
-<img width="355" alt="Screenshot 2023-12-03 at 12 25 31 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/69dbcce9-fd44-4a72-9a23-fe4a1368a460">
-
 # Algorithms and Models are written in Tensorflow and PyTorch Frameworks
+<img width="355" alt="Screenshot 2023-12-03 at 12 25 31 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/69dbcce9-fd44-4a72-9a23-fe4a1368a460">
 
 ## The Proposed Optimizer and SoftMax Loss Functions Codes have bee written in Tensorflow. 
 
 ###
-To call SoftMax:
+To call My Proposed Adaptive Soft_MarginSoftMax:
 
 from ASoftMax import my_forward
 
@@ -26,7 +25,7 @@ out =Activation(my_forward,dynamic=True, name='MyProposed_SoftMax')(x_1)
 ###
 
 
-To call Optmizer, Use These lines of Codes to Call it:
+To call My proposed First-Order Optmizer, Use These lines of Codes to Call it:
 
 <img width="254" alt="Screenshot 2023-12-01 at 4 12 19 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/53fd23dd-952b-4291-af5d-724525eed041">
 
@@ -40,7 +39,7 @@ To call Optmizer, Use These lines of Codes to Call it:
 
 ################
 
-To call Loss and Class-Weight Functions Use the  comment Line:
+To call My Proposed Classification Loss and Class-Weight Functions Use the  comment Line:
 
 loss=MyLoss()
 
