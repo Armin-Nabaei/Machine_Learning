@@ -13,10 +13,11 @@ Next, simply replace the last layer with corresponding commend:
 
 <img width="729" alt="Screenshot 2023-12-01 at 4 08 25 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/f49d2f6c-9150-455c-adb6-f96254254ba9">
 
-''' ruby
+```ruby
 x_1 = Dense(num_classes,kernel_initializer="he_normal")(prev_input)
 out =Activation(my_forward,dynamic=True, name='MyProposed_SoftMax')(x_1)
-'''
+```
+
 <img width="467" alt="Screenshot 2023-11-30 at 1 05 20 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c831a9c2-c351-420a-b7a2-7f679dd00be8">
 <img width="475" alt="Screenshot 2023-11-30 at 1 05 38 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/ba8af3ad-f92e-422f-b1eb-b8c906d553d8">
 
