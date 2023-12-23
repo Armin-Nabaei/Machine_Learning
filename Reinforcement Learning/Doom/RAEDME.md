@@ -36,7 +36,25 @@ https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/e73450ae-aa03-
 https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/1f72b9eb-6396-414b-9b54-68ca06365da7
 
 
+##############################################################################
+# Breadown Game
 
+https://arxiv.org/abs/1912.10944
+
+## Install Libraries
+https://github.com/openai/universe-starter-agent
+```
+%%bash
+apt-get update
+apt-get install build-essential zlib1g-dev libsdl2-dev libjpeg-dev \
+nasm tar libbz2-dev libgtk2.0-dev cmake git libfluidsynth-dev libgme-dev \
+libopenal-dev timidity libwildmidi-dev unzip
+# Boost libraries
+apt-get install libboost-all-dev
+# Lua binding dependencies
+apt-get install liblua5.1-dev
+```
+___________________________
 
 
 
