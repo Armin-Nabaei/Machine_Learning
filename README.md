@@ -27,8 +27,10 @@ out =Activation(my_forward,dynamic=True, name='MyProposed_SoftMax')(x_1)
 
 To call My proposed First-Order Optmizer, Use These lines of Codes to Call it:
 
-<img width="254" alt="Screenshot 2023-12-01 at 4 12 19 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/53fd23dd-952b-4291-af5d-724525eed041">
-
+```ruby
+from AADAM import ArminAdam
+optimizer= ArminAdam(lr=0.001)
+```
 
 ###
 <img width="437" alt="Screen Shot 2023-09-28 at 12 29 05 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/d085d97c-d1b7-4309-908c-8dc1736cb86e">
