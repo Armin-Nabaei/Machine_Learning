@@ -5,9 +5,9 @@
 
 ###
 To call My Proposed Adaptive Soft_Margin SoftMax:
-
+```ruby
 from ASoftMax import my_forward
-
+```
 
 Next, simply replace the last layer with corresponding commend:
 
@@ -40,20 +40,19 @@ To call My proposed First-Order Optmizer, Use These lines of Codes to Call it:
 ################
 
 To call My Proposed Classification Loss and Class-Weight Functions Use the  comment Line:
-
+```ruby
 loss=MyLoss()
-
+```
 <img width="360" alt="Screenshot 2023-11-30 at 1 00 13 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c3554520-362f-4473-b642-926b682ee8a1">
 <img width="358" alt="Screenshot 2023-11-30 at 1 00 23 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/3a5bd62e-0450-429f-82a8-07af765b1c4c">
 
 #####
 To call Loss Class-Weight Functions Use the below comment Lines:
-
+``` ruby
 class_weights = create_class_weight(labels_dict)
+```
 <img width="466" alt="Screenshot 2023-12-01 at 4 02 15 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c03f9cc6-dafe-41f2-8b90-5e371da0c3ef">
-
-
-________________________________________
+______________________________________________
 
 # CALL MY PROPOSED FUNCTIONS
 ### download functions, run this below lines in your model 
