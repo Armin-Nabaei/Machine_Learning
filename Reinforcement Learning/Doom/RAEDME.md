@@ -21,7 +21,8 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
 !git clone https://github.com/astronautas/vizdoom_gym.git
 !python3 -m pip install -e vizdoom_gym/
 !pip install pillow
-'''
+```
+
 ![Uploading Screenshot 2023-10-28 at 8.35.45 PM.png…]()
 
 
