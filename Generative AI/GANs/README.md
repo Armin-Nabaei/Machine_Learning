@@ -3,3 +3,4 @@
 ## https://arxiv.org/abs/1703.10593
 
 ![Alt text](<Screenshot 2023-12-23 at 2.16.42 PM.png>)
+![Alt text](<Screenshot 2023-12-23 at 2.17.01 PM.png>)
