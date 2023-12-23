@@ -5,10 +5,11 @@ _______________________
 
 ##TO DO for Enviroments:
 ## 1) Install  vizdoomenv.py from 
-https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
+https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py<img width="364" alt="Screenshot 2023-10-28 at 8 35 45 PM" src="https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/bd525cd6-d312-4bc3-b06f-75cc71941859">
+
 ## 2)Replace "**vizdoomenv.py**" in vizdoom_gym/vizdoomgym/envs folder
 
-#Installation
+## Installation
 
 ```
 !sudo apt-get update
@@ -21,6 +22,9 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
 !python3 -m pip install -e vizdoom_gym/
 !pip install pillow
 '''
+![Uploading Screenshot 2023-10-28 at 8.35.45 PM.png…]()
+
+
 
 
 
