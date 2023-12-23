@@ -10,7 +10,7 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
 
 _______________________
 
-## Install:
+## Install Libraries:
 !sudo apt-get update
 !sudo apt-get install build-essential zlib1g-dev libsdl2-dev libjpeg-dev nasm tar libbz2-dev libgtk2.0-dev cmake git libfluidsynth-dev libgme-dev libopenal-dev timidity libwildmidi-dev unzip
 !sudo apt-get install libboost-all-dev
