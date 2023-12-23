@@ -1,5 +1,5 @@
 # " Q-Learning for Doom Game Implemented in PyTorch Framework."
-https://arxiv.org/abs/1605.02097
+## https://arxiv.org/abs/1605.02097
 _______________________
 
 ## TO DO for Creating Environments:
