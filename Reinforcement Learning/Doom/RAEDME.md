@@ -1,4 +1,4 @@
-# " Q-Learning for Doom Game Implemented in PyTorch Framework."
+# " Q-Learning AI Model for Doom Game Implemented in PyTorch Framework."
 ## https://arxiv.org/abs/1605.02097
 _______________________
 
