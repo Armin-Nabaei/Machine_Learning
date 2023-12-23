@@ -25,15 +25,15 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomen
 
 
 
-https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/bd3d333b-6f64-4b99-a6be-6db0d553fb6a
-
-
-
 https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/9739bcd8-1e38-4434-9b58-98253cd8e0fa
 
 
 
 https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/e73450ae-aa03-4d3d-a703-f38d06cb2948
+
+
+
+https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/1f72b9eb-6396-414b-9b54-68ca06365da7
 
 
 
