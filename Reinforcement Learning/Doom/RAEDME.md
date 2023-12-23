@@ -11,16 +11,8 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
 _______________________
 
 ## Install Libraries:
-'''
-!sudo apt-get update
-!sudo apt-get install build-essential zlib1g-dev libsdl2-dev libjpeg-dev nasm tar libbz2-dev libgtk2.0-dev cmake git libfluidsynth-dev libgme-dev libopenal-dev timidity libwildmidi-dev unzip
-!sudo apt-get install libboost-all-dev
-!apt-get install liblua5.1-dev
-!sudo apt-get install cmake libboost-all-dev libgtk2.0-dev libsdl2-dev python-numpy git
-!git clone https://github.com/astronautas/vizdoom_gym.git
-!python3 -m pip install -e vizdoom_gym/
-!pip install pillow
-'''
+
+https://colab.research.google.com/drive/1aEVLlotMPu23lDXMeuDPqyLpHV_-f8Ol?authuser=2#scrollTo=W63FcS3VTOAO&line=1&uniqifier=1
 
 ________________________
 
