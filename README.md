@@ -52,3 +52,19 @@ To call Loss Class-Weight Functions Use the below comment Lines:
 class_weights = create_class_weight(labels_dict)
 <img width="466" alt="Screenshot 2023-12-01 at 4 02 15 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/c03f9cc6-dafe-41f2-8b90-5e371da0c3ef">
 
+
+________________________________________
+
+# CALL MY PROPOSED FUNCTIONS
+### download functions, run this below lines in your model 
+``` ruby
+from ASoftMax import my_forward
+from AADAM import ArminAdam
+from ALoss import MyLoss
+from AClass_Weight import create_class_weight
+
+
+optimizer= ArminAdam(lr=0.001)
+loss=MyLoss()
+class_weights = create_class_weight(labels_dict)
+```
