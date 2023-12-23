@@ -1,5 +1,5 @@
 
-Adversary comes from competition between the generator and the discriminator.
+### Adversary comes from competition between the generator and the discriminator.
 
 ![Alt text](<Screenshot 2023-12-23 at 3.07.11 PM.png>)
 Improved stability of two GANs models in the Image Generation Domain, which suffer from vanishing gradients in an early training stage:
