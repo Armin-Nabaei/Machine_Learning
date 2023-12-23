@@ -1,4 +1,4 @@
-# "Reinforcement Learning for Doom Game Implemented in PyTorch Framework."
+# " Q-Learning for Doom Game Implemented in PyTorch Framework."
 https://arxiv.org/abs/1605.02097
 _______________________
 
@@ -22,6 +22,11 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomen
 ```
 
 <img width="364" alt="Screenshot 2023-10-28 at 8 35 45 PM" src="https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/f39e70f1-9aca-4b97-90d1-665fdd8832d5">
+
+
+
+https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/d281e2cc-263d-40ea-8e39-7aa6db76671c
+
 
 
 https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/fe0699d9-a0bc-463b-a326-f747f7550c6a
