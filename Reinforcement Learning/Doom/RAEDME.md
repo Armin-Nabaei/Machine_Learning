@@ -1,13 +1,11 @@
-# "Reinforcement Learning for Doom"
- 
+# "Reinforcement Learning for Doom Game Implemented in PyTorch Framework."
 https://arxiv.org/abs/1605.02097
 _______________________
 
-##TO DO for Enviroments:
-## 1) Install  vizdoomenv.py from 
+## TO DO for Creating Environments:
+### 1) Install  vizdoomenv.py from 
 https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomen
-
-## 2)Replace "**vizdoomenv.py**" in vizdoom_gym/vizdoomgym/envs folder
+### 2)Replace "**vizdoomenv.py**" in vizdoom_gym/vizdoomgym/envs folder
 
 ## Installation
 
