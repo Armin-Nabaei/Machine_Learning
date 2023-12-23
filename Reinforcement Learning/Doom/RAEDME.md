@@ -37,8 +37,6 @@ https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/17ab3ad8-0d3d-
 
 
 
-https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/6c15a892-3326-4924-8621-5b91eab40476
-
 
 
 https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/2cdcd972-0b8a-481b-9c35-5de68a631df3
