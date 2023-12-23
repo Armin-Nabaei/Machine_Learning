@@ -9,7 +9,7 @@ To call My Proposed Adaptive Soft_Margin SoftMax:
 from ASoftMax import my_forward
 ```
 
-Next, simply replace the last layer with corresponding commend:
+Next, simply replace the last layer with the corresponding command:
 
 <img width="729" alt="Screenshot 2023-12-01 at 4 08 25 AM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/f49d2f6c-9150-455c-adb6-f96254254ba9">
 
@@ -25,7 +25,7 @@ out =Activation(my_forward,dynamic=True, name='MyProposed_SoftMax')(x_1)
 ###
 
 
-To call My proposed First-Order Optmizer, Use These lines of Codes to Call it:
+To call My proposed First-Order Optimizer, Use These lines of Codes to Call it:
 
 ```ruby
 from AADAM import ArminAdam
@@ -41,7 +41,7 @@ optimizer= ArminAdam(lr=0.001)
 
 ################
 
-To call My Proposed Classification Loss and Class-Weight Functions Use the  comment Line:
+To call My Proposed Classification Loss and Class-Weight Functions, Use the  comment Line:
 ```ruby
 loss=MyLoss()
 ```
@@ -49,7 +49,7 @@ loss=MyLoss()
 <img width="358" alt="Screenshot 2023-11-30 at 1 00 23 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/3a5bd62e-0450-429f-82a8-07af765b1c4c">
 
 #####
-To call Loss Class-Weight Functions Use the below comment Lines:
+To call Loss Class-Weight Functions, Use the below comment Lines:
 ``` ruby
 class_weights = create_class_weight(labels_dict)
 ```
@@ -57,7 +57,7 @@ class_weights = create_class_weight(labels_dict)
 ______________________________________________
 
 # CALL MY PROPOSED FUNCTIONS
-### download functions, run this below lines in your model 
+### download functions, run the below lines in your model 
 ``` ruby
 from ASoftMax import my_forward
 from AADAM import ArminAdam
