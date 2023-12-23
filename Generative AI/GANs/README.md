@@ -9,7 +9,7 @@ Improved stability of two GANs models in the Image Generation Domain, which suff
 - For downsampling, use Average pooling, conv2d + stride.
 - For upsampling, use pixel Shuffle, convtransposed2d + stride.
 _____________________________________________________
-![Alt text](<Screenshot 2023-12-23 at 3.13.58 PM.png>)
+![Alt text](<Screenshot 2023-12-23 at 3.17.26 PM.png>)
 _____________________________________________________
 # Cycle_GANs
 ## "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
