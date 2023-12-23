@@ -23,7 +23,25 @@ https://github.com/shakenes/vizdoomgym/blob/master/vizdoomgym/envs/vizdoomenv.py
 !pip install pillow
 ```
 
-![Uploading Screenshot 2023-10-28 at 8.35.45 PM.png…]()
+<img width="364" alt="Screenshot 2023-10-28 at 8 35 45 PM" src="https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/f39e70f1-9aca-4b97-90d1-665fdd8832d5">
+
+
+https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/fe0699d9-a0bc-463b-a326-f747f7550c6a
+
+
+
+https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/17ab3ad8-0d3d-4623-9084-32e3cb83724b
+
+
+
+https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/6c15a892-3326-4924-8621-5b91eab40476
+
+
+
+https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/2cdcd972-0b8a-481b-9c35-5de68a631df3
+
+
+
 
 
 
