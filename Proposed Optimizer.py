@@ -22,7 +22,7 @@ from tensorflow.python.training import training_ops
 import tensorflow as tf
 from tensorflow.python.ops import array_ops
 from tensorflow.keras.optimizers.legacy import Optimizer 
-
+#set beta_1=0.8 for better results.
 
 class ArminAdam(Optimizer):
    
