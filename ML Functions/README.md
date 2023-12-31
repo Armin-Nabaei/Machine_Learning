@@ -55,7 +55,8 @@ https://drive.google.com/file/d/1z5RguAiIncQYKt-eJqpbAGL2msLMetaa/view?usp=shari
 ![download (25)](https://github.com/Armin-Nabaei/Machine_Learning/assets/150948007/c36e1c88-a448-4976-8a27-87d6617a516a)
 
 ###################
-### Grad-CAM is widely used because it's flexible and can be applied to a wide variety of CNN-based models, including those for image classification, image captioning, and visual question answering, without requiring any changes to the underlying model architecture. This quality makes it an excellent tool for understanding and interpreting the predictions made by complex CNN models.
+### Grad-CAM
+GRAD-CAM is widely used because it's flexible and can be applied to a wide variety of CNN-based models, including those for image classification, image captioning, and visual question answering, without requiring any changes to the underlying model architecture. This quality makes it an excellent tool for understanding and interpreting the predictions made by complex CNN models.
 
 ![Alt text](<Screenshot 2023-12-31 at 5.27.27 AM.png>)
 ###################
