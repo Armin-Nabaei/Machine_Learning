@@ -34,7 +34,7 @@ Assistant:
             region_name="us-west-2",
             config=botocore.config.Config(read_timeout=300, retries={'max_attempts': 3})
         )
-        response = bedrock_client.invoke_model(body=json.dumps(request_body), modelId="ai21.labs.jurassic-2")
+        response = bedrock_client.invoke_model(body=json.dumps(request_body), modelId="anthropic.claude-v2")
         response_content = response.get('body').read().decode('utf-8')
         response_data = json.loads(response_content)
         generated_code = response_data["completion"].strip()
