@@ -1,10 +1,10 @@
-# Algorithms and Models are written in Tensorflow and PyTorch Frameworks
+# Algorithms and models have been developed using the TensorFlow and PyTorch frameworks.
 <img width="355" alt="Screenshot 2023-12-03 at 12 25 31 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/69dbcce9-fd44-4a72-9a23-fe4a1368a460">
 
-## The Proposed Optimizer and SoftMax Loss Functions have been written in Tensorflow. 
+## The proposed optimizer and SoftMax loss functions are implemented in TensorFlow.
 
 ###
-To call My Proposed Adaptive Soft_Margin SoftMax:
+To invoke the custom Adaptive Soft Margin SoftMax function:
 ```ruby
 from ASoftMax import my_forward
 ```
