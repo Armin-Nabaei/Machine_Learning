@@ -1,7 +1,8 @@
 # Algorithms and models have been developed using the TensorFlow and PyTorch frameworks.
 <img width="355" alt="Screenshot 2023-12-03 at 12 25 31 PM" src="https://github.com/arminn84/Machine-Learning/assets/150948007/69dbcce9-fd44-4a72-9a23-fe4a1368a460">
-### Detailed information is available on my website
-### https://www.arminnabaei.com/
+
+### Detailed information is available on my website https://www.arminnabaei.com/
+
 ## The proposed optimizer and SoftMax loss functions are implemented in TensorFlow.
 
 ###
