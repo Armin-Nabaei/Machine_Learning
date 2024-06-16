@@ -27,11 +27,11 @@ Implement a dynamic programming algorithm that solves optimally the expression p
 
 
 ##Here is an example: 
-6 
-2 2 9 229 
-2 2 9 11 
-2 2 9 729 
-2 2 9 49 
-3 1 4 7 21 
-2 4 7 6
+### 6 
+### 2 2 9 229 
+### 2 2 9 11 
+### 2 2 9 729 
+### 2 2 9 49 
+### 3 1 4 7 21 
+### 2 4 7 6
 
